@@ -4,6 +4,10 @@ from dataclasses import dataclass
 from collections import defaultdict
 import json
 import ollama   # ✅ use ollama client
+from dotenv import load_dotenv
+import os
+
+load_dotenv()
 
 
 @dataclass
@@ -23,7 +27,7 @@ class NPCResponse:  #ai response
     timestamp: datetime.datetime
 
 class OpenAINPCChatSystem:
-    def __init__(self, model="llama3"):   # ✅ no api_key needed
+    def __init__(self, model=os.getenv("MODEL_NAME")):   # ✅ no api_key needed
         self.model = model
         self.player_conversation_history = defaultdict(list)
         self.player_moods = defaultdict(lambda: "neutral")
@@ -73,7 +77,7 @@ class OpenAINPCChatSystem:
         """
 
         try:
-            client = ollama.Client(host="http://localhost:11434")  #ollama serve
+            client = ollama.Client(host=os.getenv("HOST_URL"))  #ollama serve
             response = client.chat(
                 model=self.model,
                 messages=[
