@@ -1,0 +1,1072 @@
+[
+  {
+    "player_id": 2,
+    "timestamp": "2025-08-26T15:01:05",
+    "player_message": "Where should I go now?",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "neutral",
+    "conversation_state": []
+  },
+  {
+    "player_id": 5,
+    "timestamp": "2025-08-26T15:01:07",
+    "player_message": "Can I buy a sword here?",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "neutral",
+    "conversation_state": []
+  },
+  {
+    "player_id": 1,
+    "timestamp": "2025-08-26T15:01:10",
+    "player_message": "Hello there!",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "friendly",
+    "conversation_state": []
+  },
+  {
+    "player_id": 6,
+    "timestamp": "2025-08-26T15:01:12",
+    "player_message": "Sing me a song!",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "neutral",
+    "conversation_state": []
+  },
+  {
+    "player_id": 3,
+    "timestamp": "2025-08-26T15:01:15",
+    "player_message": "Do you have a quest for me?",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "neutral",
+    "conversation_state": []
+  },
+  {
+    "player_id": 4,
+    "timestamp": "2025-08-26T15:01:18",
+    "player_message": "What's the fastest way to level up?",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "neutral",
+    "conversation_state": []
+  },
+  {
+    "player_id": 1,
+    "timestamp": "2025-08-26T15:01:20",
+    "player_message": "Tell me more about this village.",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "friendly",
+    "conversation_state": [
+      "Hello there!"
+    ]
+  },
+  {
+    "player_id": 10,
+    "timestamp": "2025-08-26T15:01:22",
+    "player_message": "This game is so confusing!",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "friendly",
+    "conversation_state": []
+  },
+  {
+    "player_id": 2,
+    "timestamp": "2025-08-26T15:01:25",
+    "player_message": "You are useless!",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "angry",
+    "conversation_state": [
+      "Where should I go now?"
+    ]
+  },
+  {
+    "player_id": 4,
+    "timestamp": "2025-08-26T15:01:28",
+    "player_message": "Anyone selling armor?",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "neutral",
+    "conversation_state": [
+      "What's the fastest way to level up?"
+    ]
+  },
+  {
+    "player_id": 3,
+    "timestamp": "2025-08-26T15:01:30",
+    "player_message": "What monsters are nearby?",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "neutral",
+    "conversation_state": [
+      "Do you have a quest for me?"
+    ]
+  },
+  {
+    "player_id": 8,
+    "timestamp": "2025-08-26T15:01:33",
+    "player_message": "I'm lost, which way to the forest?",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "friendly",
+    "conversation_state": []
+  },
+  {
+    "player_id": 1,
+    "timestamp": "2025-08-26T15:01:35",
+    "player_message": "I need help fighting.",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "friendly",
+    "conversation_state": [
+      "Hello there!",
+      "Tell me more about this village."
+    ]
+  },
+  {
+    "player_id": 9,
+    "timestamp": "2025-08-26T15:01:38",
+    "player_message": "What's your name, stranger?",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "neutral",
+    "conversation_state": []
+  },
+  {
+    "player_id": 11,
+    "timestamp": "2025-08-26T15:01:40",
+    "player_message": "Anyone want to party up?",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "neutral",
+    "conversation_state": []
+  },
+  {
+    "player_id": 7,
+    "timestamp": "2025-08-26T15:01:42",
+    "player_message": "This place looks awesome!",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "friendly",
+    "conversation_state": []
+  },
+  {
+    "player_id": 2,
+    "timestamp": "2025-08-26T15:01:45",
+    "player_message": "Sorry, I was just frustrated.",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "angry",
+    "conversation_state": [
+      "Where should I go now?",
+      "You are useless!"
+    ]
+  },
+  {
+    "player_id": 14,
+    "timestamp": "2025-08-26T15:01:47",
+    "player_message": "What level do I need to be?",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "neutral",
+    "conversation_state": []
+  },
+  {
+    "player_id": 1,
+    "timestamp": "2025-08-26T15:01:48",
+    "player_message": "Where can I find a healer?",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "neutral",
+    "conversation_state": [
+      "Hello there!",
+      "Tell me more about this village.",
+      "I need help fighting."
+    ]
+  },
+  {
+    "player_id": 5,
+    "timestamp": "2025-08-26T15:01:50",
+    "player_message": "Do you know any good hunting spots?",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "friendly",
+    "conversation_state": [
+      "Can I buy a sword here?"
+    ]
+  },
+  {
+    "player_id": 4,
+    "timestamp": "2025-08-26T15:01:52",
+    "player_message": "This is taking forever...",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "friendly",
+    "conversation_state": [
+      "What's the fastest way to level up?",
+      "Anyone selling armor?"
+    ]
+  },
+  {
+    "player_id": 6,
+    "timestamp": "2025-08-26T15:01:55",
+    "player_message": "Thanks for the help earlier!",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "friendly",
+    "conversation_state": [
+      "Sing me a song!"
+    ]
+  },
+  {
+    "player_id": 12,
+    "timestamp": "2025-08-26T15:01:58",
+    "player_message": "You're blocking my view!",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "neutral",
+    "conversation_state": []
+  },
+  {
+    "player_id": 3,
+    "timestamp": "2025-08-26T15:02:02",
+    "player_message": "I completed that quest, what's next?",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "neutral",
+    "conversation_state": [
+      "Do you have a quest for me?",
+      "What monsters are nearby?"
+    ]
+  },
+  {
+    "player_id": 7,
+    "timestamp": "2025-08-26T15:02:05",
+    "player_message": "How do I craft items?",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "neutral",
+    "conversation_state": [
+      "This place looks awesome!"
+    ]
+  },
+  {
+    "player_id": 8,
+    "timestamp": "2025-08-26T15:02:08",
+    "player_message": "Can you teach me to fight?",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "neutral",
+    "conversation_state": [
+      "I'm lost, which way to the forest?"
+    ]
+  },
+  {
+    "player_id": 13,
+    "timestamp": "2025-08-26T15:02:10",
+    "player_message": "Good evening, friend!",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "friendly",
+    "conversation_state": []
+  },
+  {
+    "player_id": 9,
+    "timestamp": "2025-08-26T15:02:12",
+    "player_message": "This weather is perfect for adventure.",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "friendly",
+    "conversation_state": [
+      "What's your name, stranger?"
+    ]
+  },
+  {
+    "player_id": 2,
+    "timestamp": "2025-08-26T15:02:15",
+    "player_message": "I found a rare item!",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "neutral",
+    "conversation_state": [
+      "Where should I go now?",
+      "You are useless!",
+      "Sorry, I was just frustrated."
+    ]
+  },
+  {
+    "player_id": 15,
+    "timestamp": "2025-08-26T15:02:18",
+    "player_message": "Stop following me around!",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "neutral",
+    "conversation_state": []
+  },
+  {
+    "player_id": 5,
+    "timestamp": "2025-08-26T15:02:20",
+    "player_message": "How much gold do I need?",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "neutral",
+    "conversation_state": [
+      "Can I buy a sword here?",
+      "Do you know any good hunting spots?"
+    ]
+  },
+  {
+    "player_id": 1,
+    "timestamp": "2025-08-26T15:02:22",
+    "player_message": "The inn looks cozy.",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "neutral",
+    "conversation_state": [
+      "Tell me more about this village.",
+      "I need help fighting.",
+      "Where can I find a healer?"
+    ]
+  },
+  {
+    "player_id": 10,
+    "timestamp": "2025-08-26T15:02:25",
+    "player_message": "Finally figured it out!",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "neutral",
+    "conversation_state": [
+      "This game is so confusing!"
+    ]
+  },
+  {
+    "player_id": 6,
+    "timestamp": "2025-08-26T15:02:28",
+    "player_message": "I love this soundtrack!",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "friendly",
+    "conversation_state": [
+      "Sing me a song!",
+      "Thanks for the help earlier!"
+    ]
+  },
+  {
+    "player_id": 16,
+    "timestamp": "2025-08-26T15:02:30",
+    "player_message": "Anyone seen the blacksmith?",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "neutral",
+    "conversation_state": []
+  },
+  {
+    "player_id": 3,
+    "timestamp": "2025-08-26T15:02:33",
+    "player_message": "That boss was impossible!",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "neutral",
+    "conversation_state": [
+      "Do you have a quest for me?",
+      "What monsters are nearby?",
+      "I completed that quest, what's next?"
+    ]
+  },
+  {
+    "player_id": 11,
+    "timestamp": "2025-08-26T15:02:35",
+    "player_message": "Let's form a guild!",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "neutral",
+    "conversation_state": [
+      "Anyone want to party up?"
+    ]
+  },
+  {
+    "player_id": 17,
+    "timestamp": "2025-08-26T15:02:38",
+    "player_message": "Hello, how are you today?",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "friendly",
+    "conversation_state": []
+  },
+  {
+    "player_id": 12,
+    "timestamp": "2025-08-26T15:02:40",
+    "player_message": "Move out of the way, noob!",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "neutral",
+    "conversation_state": [
+      "You're blocking my view!"
+    ]
+  },
+  {
+    "player_id": 18,
+    "timestamp": "2025-08-26T15:02:42",
+    "player_message": "This village has great atmosphere!",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "friendly",
+    "conversation_state": []
+  },
+  {
+    "player_id": 7,
+    "timestamp": "2025-08-26T15:02:45",
+    "player_message": "Where do I learn magic?",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "neutral",
+    "conversation_state": [
+      "This place looks awesome!",
+      "How do I craft items?"
+    ]
+  },
+  {
+    "player_id": 4,
+    "timestamp": "2025-08-26T15:02:48",
+    "player_message": "I need better equipment.",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "neutral",
+    "conversation_state": [
+      "What's the fastest way to level up?",
+      "Anyone selling armor?",
+      "This is taking forever..."
+    ]
+  },
+  {
+    "player_id": 13,
+    "timestamp": "2025-08-26T15:02:50",
+    "player_message": "The sunset here is beautiful.",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "neutral",
+    "conversation_state": [
+      "Good evening, friend!"
+    ]
+  },
+  {
+    "player_id": 8,
+    "timestamp": "2025-08-26T15:02:52",
+    "player_message": "Can someone explain the controls?",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "neutral",
+    "conversation_state": [
+      "I'm lost, which way to the forest?",
+      "Can you teach me to fight?"
+    ]
+  },
+  {
+    "player_id": 19,
+    "timestamp": "2025-08-26T15:02:55",
+    "player_message": "You look like a wise person.",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "neutral",
+    "conversation_state": []
+  },
+  {
+    "player_id": 2,
+    "timestamp": "2025-08-26T15:02:58",
+    "player_message": "I'm running low on health potions.",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "neutral",
+    "conversation_state": [
+      "You are useless!",
+      "Sorry, I was just frustrated.",
+      "I found a rare item!"
+    ]
+  },
+  {
+    "player_id": 14,
+    "timestamp": "2025-08-26T15:03:00",
+    "player_message": "This is harder than I thought.",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "friendly",
+    "conversation_state": [
+      "What level do I need to be?"
+    ]
+  },
+  {
+    "player_id": 9,
+    "timestamp": "2025-08-26T15:03:02",
+    "player_message": "Want to explore together?",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "neutral",
+    "conversation_state": [
+      "What's your name, stranger?",
+      "This weather is perfect for adventure."
+    ]
+  },
+  {
+    "player_id": 20,
+    "timestamp": "2025-08-26T15:03:05",
+    "player_message": "Get lost, I was here first!",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "neutral",
+    "conversation_state": []
+  },
+  {
+    "player_id": 15,
+    "timestamp": "2025-08-26T15:03:08",
+    "player_message": "Thanks for being patient with me.",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "friendly",
+    "conversation_state": [
+      "Stop following me around!"
+    ]
+  },
+  {
+    "player_id": 5,
+    "timestamp": "2025-08-26T15:03:10",
+    "player_message": "Do you have any tips for beginners?",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "neutral",
+    "conversation_state": [
+      "Can I buy a sword here?",
+      "Do you know any good hunting spots?",
+      "How much gold do I need?"
+    ]
+  },
+  {
+    "player_id": 10,
+    "timestamp": "2025-08-26T15:03:12",
+    "player_message": "I love meeting new players!",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "neutral",
+    "conversation_state": [
+      "This game is so confusing!",
+      "Finally figured it out!"
+    ]
+  },
+  {
+    "player_id": 16,
+    "timestamp": "2025-08-26T15:03:15",
+    "player_message": "This place gives me the creeps.",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "friendly",
+    "conversation_state": [
+      "Anyone seen the blacksmith?"
+    ]
+  },
+  {
+    "player_id": 1,
+    "timestamp": "2025-08-26T15:03:18",
+    "player_message": "What's that strange noise?",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "neutral",
+    "conversation_state": [
+      "I need help fighting.",
+      "Where can I find a healer?",
+      "The inn looks cozy."
+    ]
+  },
+  {
+    "player_id": 21,
+    "timestamp": "2025-08-26T15:03:20",
+    "player_message": "Good day to you, traveler!",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "friendly",
+    "conversation_state": []
+  },
+  {
+    "player_id": 6,
+    "timestamp": "2025-08-26T15:03:22",
+    "player_message": "I could stay here all day.",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "neutral",
+    "conversation_state": [
+      "Sing me a song!",
+      "Thanks for the help earlier!",
+      "I love this soundtrack!"
+    ]
+  },
+  {
+    "player_id": 11,
+    "timestamp": "2025-08-26T15:03:25",
+    "player_message": "Anyone know where to find crystals?",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "neutral",
+    "conversation_state": [
+      "Anyone want to party up?",
+      "Let's form a guild!"
+    ]
+  },
+  {
+    "player_id": 22,
+    "timestamp": "2025-08-26T15:03:28",
+    "player_message": "You're in my spot, move it!",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "neutral",
+    "conversation_state": []
+  },
+  {
+    "player_id": 3,
+    "timestamp": "2025-08-26T15:03:30",
+    "player_message": "I'm ready for whatever comes next.",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "angry",
+    "conversation_state": [
+      "What monsters are nearby?",
+      "I completed that quest, what's next?",
+      "That boss was impossible!"
+    ]
+  },
+  {
+    "player_id": 17,
+    "timestamp": "2025-08-26T15:03:32",
+    "player_message": "The architecture here is amazing.",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "friendly",
+    "conversation_state": [
+      "Hello, how are you today?"
+    ]
+  },
+  {
+    "player_id": 12,
+    "timestamp": "2025-08-26T15:03:35",
+    "player_message": "Finally, someone who knows what they're doing.",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "neutral",
+    "conversation_state": [
+      "You're blocking my view!",
+      "Move out of the way, noob!"
+    ]
+  },
+  {
+    "player_id": 7,
+    "timestamp": "2025-08-26T15:03:38",
+    "player_message": "How do I save my progress?",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "neutral",
+    "conversation_state": [
+      "This place looks awesome!",
+      "How do I craft items?",
+      "Where do I learn magic?"
+    ]
+  },
+  {
+    "player_id": 18,
+    "timestamp": "2025-08-26T15:03:40",
+    "player_message": "I wish I had your experience.",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "neutral",
+    "conversation_state": [
+      "This village has great atmosphere!"
+    ]
+  },
+  {
+    "player_id": 4,
+    "timestamp": "2025-08-26T15:03:42",
+    "player_message": "This grind is killing me.",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "friendly",
+    "conversation_state": [
+      "Anyone selling armor?",
+      "This is taking forever...",
+      "I need better equipment."
+    ]
+  },
+  {
+    "player_id": 23,
+    "timestamp": "2025-08-26T15:03:45",
+    "player_message": "Greetings, fellow adventurer!",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "neutral",
+    "conversation_state": []
+  },
+  {
+    "player_id": 13,
+    "timestamp": "2025-08-26T15:03:48",
+    "player_message": "I've been playing for hours.",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "neutral",
+    "conversation_state": [
+      "Good evening, friend!",
+      "The sunset here is beautiful."
+    ]
+  },
+  {
+    "player_id": 8,
+    "timestamp": "2025-08-26T15:03:50",
+    "player_message": "Could you show me the map?",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "neutral",
+    "conversation_state": [
+      "I'm lost, which way to the forest?",
+      "Can you teach me to fight?",
+      "Can someone explain the controls?"
+    ]
+  },
+  {
+    "player_id": 24,
+    "timestamp": "2025-08-26T15:03:52",
+    "player_message": "Stop wasting my time!",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "neutral",
+    "conversation_state": []
+  },
+  {
+    "player_id": 19,
+    "timestamp": "2025-08-26T15:03:55",
+    "player_message": "Your wisdom is appreciated.",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "friendly",
+    "conversation_state": [
+      "You look like a wise person."
+    ]
+  },
+  {
+    "player_id": 2,
+    "timestamp": "2025-08-26T15:03:58",
+    "player_message": "I think I'm getting the hang of this.",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "friendly",
+    "conversation_state": [
+      "Sorry, I was just frustrated.",
+      "I found a rare item!",
+      "I'm running low on health potions."
+    ]
+  },
+  {
+    "player_id": 14,
+    "timestamp": "2025-08-26T15:04:00",
+    "player_message": "This community seems friendly.",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "friendly",
+    "conversation_state": [
+      "What level do I need to be?",
+      "This is harder than I thought."
+    ]
+  },
+  {
+    "player_id": 9,
+    "timestamp": "2025-08-26T15:04:02",
+    "player_message": "What's the story behind this place?",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "friendly",
+    "conversation_state": [
+      "What's your name, stranger?",
+      "This weather is perfect for adventure.",
+      "Want to explore together?"
+    ]
+  },
+  {
+    "player_id": 25,
+    "timestamp": "2025-08-26T15:04:05",
+    "player_message": "You look like you need help.",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "friendly",
+    "conversation_state": []
+  },
+  {
+    "player_id": 20,
+    "timestamp": "2025-08-26T15:04:08",
+    "player_message": "I don't have time for chitchat!",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "friendly",
+    "conversation_state": [
+      "Get lost, I was here first!"
+    ]
+  },
+  {
+    "player_id": 15,
+    "timestamp": "2025-08-26T15:04:10",
+    "player_message": "This world is so immersive.",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "friendly",
+    "conversation_state": [
+      "Stop following me around!",
+      "Thanks for being patient with me."
+    ]
+  },
+  {
+    "player_id": 5,
+    "timestamp": "2025-08-26T15:04:12",
+    "player_message": "I'm enjoying this adventure.",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "friendly",
+    "conversation_state": [
+      "Do you know any good hunting spots?",
+      "How much gold do I need?",
+      "Do you have any tips for beginners?"
+    ]
+  },
+  {
+    "player_id": 10,
+    "timestamp": "2025-08-26T15:04:15",
+    "player_message": "You've been very helpful.",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "friendly",
+    "conversation_state": [
+      "This game is so confusing!",
+      "Finally figured it out!",
+      "I love meeting new players!"
+    ]
+  },
+  {
+    "player_id": 26,
+    "timestamp": "2025-08-26T15:04:18",
+    "player_message": "What brings you to these lands?",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "neutral",
+    "conversation_state": []
+  },
+  {
+    "player_id": 16,
+    "timestamp": "2025-08-26T15:04:20",
+    "player_message": "I need to log off soon.",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "neutral",
+    "conversation_state": [
+      "Anyone seen the blacksmith?",
+      "This place gives me the creeps."
+    ]
+  },
+  {
+    "player_id": 1,
+    "timestamp": "2025-08-26T15:04:22",
+    "player_message": "The weather is changing.",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "neutral",
+    "conversation_state": [
+      "Where can I find a healer?",
+      "The inn looks cozy.",
+      "What's that strange noise?"
+    ]
+  },
+  {
+    "player_id": 21,
+    "timestamp": "2025-08-26T15:04:25",
+    "player_message": "Safe travels on your journey!",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "neutral",
+    "conversation_state": [
+      "Good day to you, traveler!"
+    ]
+  },
+  {
+    "player_id": 6,
+    "timestamp": "2025-08-26T15:04:28",
+    "player_message": "This music is so relaxing.",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "friendly",
+    "conversation_state": [
+      "Thanks for the help earlier!",
+      "I love this soundtrack!",
+      "I could stay here all day."
+    ]
+  },
+  {
+    "player_id": 27,
+    "timestamp": "2025-08-26T15:04:30",
+    "player_message": "You're blocking the entrance!",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "neutral",
+    "conversation_state": []
+  },
+  {
+    "player_id": 11,
+    "timestamp": "2025-08-26T15:04:32",
+    "player_message": "I love the detail in this game.",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "friendly",
+    "conversation_state": [
+      "Anyone want to party up?",
+      "Let's form a guild!",
+      "Anyone know where to find crystals?"
+    ]
+  },
+  {
+    "player_id": 22,
+    "timestamp": "2025-08-26T15:04:35",
+    "player_message": "Hurry up, I don't have all day!",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "neutral",
+    "conversation_state": [
+      "You're in my spot, move it!"
+    ]
+  },
+  {
+    "player_id": 3,
+    "timestamp": "2025-08-26T15:04:38",
+    "player_message": "Every conversation teaches me something.",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "friendly",
+    "conversation_state": [
+      "I completed that quest, what's next?",
+      "That boss was impossible!",
+      "I'm ready for whatever comes next."
+    ]
+  },
+  {
+    "player_id": 17,
+    "timestamp": "2025-08-26T15:04:40",
+    "player_message": "The lighting effects are incredible.",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "neutral",
+    "conversation_state": [
+      "Hello, how are you today?",
+      "The architecture here is amazing."
+    ]
+  },
+  {
+    "player_id": 28,
+    "timestamp": "2025-08-26T15:04:42",
+    "player_message": "Hello, I'm new to this area.",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "friendly",
+    "conversation_state": []
+  },
+  {
+    "player_id": 12,
+    "timestamp": "2025-08-26T15:04:45",
+    "player_message": "About time someone competent showed up.",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "neutral",
+    "conversation_state": [
+      "You're blocking my view!",
+      "Move out of the way, noob!",
+      "Finally, someone who knows what they're doing."
+    ]
+  },
+  {
+    "player_id": 7,
+    "timestamp": "2025-08-26T15:04:48",
+    "player_message": "I'm still learning the ropes.",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "neutral",
+    "conversation_state": [
+      "How do I craft items?",
+      "Where do I learn magic?",
+      "How do I save my progress?"
+    ]
+  },
+  {
+    "player_id": 18,
+    "timestamp": "2025-08-26T15:04:50",
+    "player_message": "You make this look so easy.",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "friendly",
+    "conversation_state": [
+      "This village has great atmosphere!",
+      "I wish I had your experience."
+    ]
+  },
+  {
+    "player_id": 4,
+    "timestamp": "2025-08-26T15:04:52",
+    "player_message": "I need a break from grinding.",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "neutral",
+    "conversation_state": [
+      "This is taking forever...",
+      "I need better equipment.",
+      "This grind is killing me."
+    ]
+  },
+  {
+    "player_id": 23,
+    "timestamp": "2025-08-26T15:04:55",
+    "player_message": "May your adventures be prosperous!",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "neutral",
+    "conversation_state": [
+      "Greetings, fellow adventurer!"
+    ]
+  },
+  {
+    "player_id": 29,
+    "timestamp": "2025-08-26T15:04:58",
+    "player_message": "Quit hogging all the attention!",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "neutral",
+    "conversation_state": []
+  },
+  {
+    "player_id": 13,
+    "timestamp": "2025-08-26T15:05:00",
+    "player_message": "The NPCs here are well-designed.",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "neutral",
+    "conversation_state": [
+      "Good evening, friend!",
+      "The sunset here is beautiful.",
+      "I've been playing for hours."
+    ]
+  },
+  {
+    "player_id": 8,
+    "timestamp": "2025-08-26T15:05:02",
+    "player_message": "I appreciate your patience.",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "friendly",
+    "conversation_state": [
+      "Can you teach me to fight?",
+      "Can someone explain the controls?",
+      "Could you show me the map?"
+    ]
+  },
+  {
+    "player_id": 24,
+    "timestamp": "2025-08-26T15:05:05",
+    "player_message": "This is boring, I'm leaving!",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "friendly",
+    "conversation_state": [
+      "Stop wasting my time!"
+    ]
+  },
+  {
+    "player_id": 19,
+    "timestamp": "2025-08-26T15:05:08",
+    "player_message": "Your guidance has been invaluable.",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "neutral",
+    "conversation_state": [
+      "You look like a wise person.",
+      "Your wisdom is appreciated."
+    ]
+  },
+  {
+    "player_id": 2,
+    "timestamp": "2025-08-26T15:05:10",
+    "player_message": "I'm starting to understand the mechanics.",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "neutral",
+    "conversation_state": [
+      "I found a rare item!",
+      "I'm running low on health potions.",
+      "I think I'm getting the hang of this."
+    ]
+  },
+  {
+    "player_id": 30,
+    "timestamp": "2025-08-26T15:05:12",
+    "player_message": "Welcome to our little corner of the world!",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "neutral",
+    "conversation_state": []
+  },
+  {
+    "player_id": 14,
+    "timestamp": "2025-08-26T15:05:15",
+    "player_message": "This game has such depth.",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "friendly",
+    "conversation_state": [
+      "What level do I need to be?",
+      "This is harder than I thought.",
+      "This community seems friendly."
+    ]
+  },
+  {
+    "player_id": 9,
+    "timestamp": "2025-08-26T15:05:18",
+    "player_message": "I feel like I belong here.",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "neutral",
+    "conversation_state": [
+      "This weather is perfect for adventure.",
+      "Want to explore together?",
+      "What's the story behind this place?"
+    ]
+  },
+  {
+    "player_id": 25,
+    "timestamp": "2025-08-26T15:05:20",
+    "player_message": "You seem to know what you're doing.",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "neutral",
+    "conversation_state": [
+      "You look like you need help."
+    ]
+  },
+  {
+    "player_id": 20,
+    "timestamp": "2025-08-26T15:05:22",
+    "player_message": "Stop being so slow!",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "neutral",
+    "conversation_state": [
+      "Get lost, I was here first!",
+      "I don't have time for chitchat!"
+    ]
+  },
+  {
+    "player_id": 15,
+    "timestamp": "2025-08-26T15:05:25",
+    "player_message": "Thank you for making me feel welcome.",
+    "npc_reply": "Issue with ollama response",
+    "npc_mood": "friendly",
+    "conversation_state": [
+      "Stop following me around!",
+      "Thanks for being patient with me.",
+      "This world is so immersive."
+    ]
+  }
+]
